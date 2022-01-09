@@ -1,0 +1,45 @@
+.input{
+  height: 32px; 
+  border-radius: 4px;
+  background-color: rgb(243,243,243);
+  border: 0px;
+}
+input:focus {
+  
+}
+
+.text-box{
+  background-color: rgb(243,243,243);
+}
+
+.text{
+  word-wrap: break-word
+}
+
+.list-name-div{
+  text-align: left;
+  font-size:28px;
+  border-bottom: 2px solid;
+  border-color: rgb(243,243,243);
+  
+}
+
+.list{
+  border-left: 1px solid;
+  border-right: 1px solid;
+  height: 90vh;
+  border-color: rgb(243,243,243);
+}
+
+.update-input{
+  border-radius: 4px;
+  background-color: rgb(243,243,243);
+  border: 0px;
+  word-wrap: break-word;
+  height:32px;
+}
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
